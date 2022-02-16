@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{12F992E4-DDE8-4A93-8B10-883D5FEDBD54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Text.Json.Serialization", "src\System.Text.Json.Serialization\System.Text.Json.Serialization.csproj", "{20ADD625-BA50-4EC1-9101-F6CF72F60D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20ADD625-BA50-4EC1-9101-F6CF72F60D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20ADD625-BA50-4EC1-9101-F6CF72F60D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20ADD625-BA50-4EC1-9101-F6CF72F60D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20ADD625-BA50-4EC1-9101-F6CF72F60D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{20ADD625-BA50-4EC1-9101-F6CF72F60D32} = {12F992E4-DDE8-4A93-8B10-883D5FEDBD54}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF5BF498-8105-4D12-B28C-6A5F29D7E8AE}
+	EndGlobalSection
+EndGlobal
