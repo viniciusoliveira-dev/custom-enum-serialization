@@ -1,0 +1,1 @@
+# custom-enum-serialization
